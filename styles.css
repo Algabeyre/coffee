@@ -449,9 +449,11 @@ section{
         grid-template-columns: repeat(2, 1fr);
     }
 }
-@media (max-width: 557px) {
+@media (max-width: 450px) {
       .reviews-container{
         padding-bottom: 7rem;
         grid-template-columns: repeat(1, 1fr);
         margin: 0 7rem;
     }
+    .contact form{
+        min-width: 414px;
