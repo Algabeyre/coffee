@@ -453,5 +453,5 @@ section{
       .reviews-container{
         padding-bottom: 7rem;
         grid-template-columns: repeat( 1fr);
-        margin: 0 5rem;
+        margin: 0 7rem;
     }
