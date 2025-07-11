@@ -455,5 +455,6 @@ section{
         grid-template-columns: repeat(1, 1fr);
         margin: 0 7rem;
     }
-    .contact form{
+    .contact form .input-box input,
+.contact form textarea{
         min-width: 414px;
